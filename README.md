@@ -92,7 +92,7 @@ display_images(xtestS, xtestN, decodeimg)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![Screenshot 2024-11-07 144325](https://github.com/user-attachments/assets/5433d655-e6c3-4738-82a9-6c52b1f1e671)
+![Screenshot 2024-11-11 210723](https://github.com/user-attachments/assets/4d401885-bffa-4293-ba26-c3c146871ff7)
 
 
 ### Original vs Noisy Vs Reconstructed Image
